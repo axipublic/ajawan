@@ -36,8 +36,8 @@ if b == '64bit':
 
     
 
-    from awan_enc.cpython import menuawan
+    from ajawan_enc.cpython import menu
 
     
 
-    menuawan
+    menu
